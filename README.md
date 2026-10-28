@@ -6,22 +6,25 @@ Transformo problemas complejos en aplicaciones web eficientes y soluciones basad
 ---
 
 ### ¿Qué puedo aportar?
-* **Desarrollo Web Full-Stack:** Creación de aplicaciones escalables, dinámicas y orientadas a la experiencia de usuario utilizando **React, TypeScript, Node.js y Python**.
-* **Análisis y Limpieza de Datos:** Procesamiento de grandes volúmenes de datos, consultas complejas en **SQL / BigQuery** y automatización de flujos de trabajo.
+* **Desarrollo Web Full-Stack:** Creación de aplicaciones e interfaces dinámicas, modulares y de alto rendimiento utilizando **React, Next.js, Angular, Node.js y TypeScript**.
+* **Gestión de Backend & Bases de Datos:** Diseño de arquitecturas robustas, optimización de consultas y manejo de bases de datos relacionales y no relacionales como **PostgreSQL, MongoDB y Firebase**.
+* **Análisis y Visualización de Datos:** Procesamiento de volúmenes de información, consultas avanzadas en **SQL**, modelado y reportes ejecutivos con herramientas de BI.
 * **Visualización de Negocio:** Diseño de dashboards interactivos y reportes ejecutivos en **Looker Studio** para la toma de decisiones estratégicas.
 
 ---
 
-### Stack Tecnológico
-* **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
-* **Backend & Scripting:** Node.js, Python, APIs
-* **Datos & Bases de Datos:** SQL, BigQuery, Looker Studio, Excel / Google Sheets
-* **Entornos & Herramientas:** Git, GitHub, Linux
+### Habilidades Técnicas (Stack Completo)
 
+* **Desarrollo & Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Node.js
+* **Frontend:** React.js, Next.js, Angular, Redux, Bootstrap, Tailwind CSS
+* **Backend & Bases de Datos:** Express, Spring Boot, PostgreSQL, MongoDB, Firebase, Sequelize
+* **Análisis de Datos:** SQL, Google Spreadsheets, Tableau, R, Python (Fundamentos)
+* **Herramientas & Entornos:** Git, GitHub, Jira, Metodologías Ágiles, Linux
 ---
 
 ### Credenciales Oficiales
-* **Google Data Analytics Professional Certificate** (Google / Coursera) — Validación internacional en ciclo completo de datos (desde la recolección y limpieza hasta la visualización).
+* **Google Data Analytics Professional Certificate** (Google / Coursera) — Especialización en análisis exploratorio, SQL, Tableau y preparación de informes ejecutivos.
+* **Formación Tecnológica:** Desarrollo Full-Stack (IT Master Academy) y Formación Técnica en Desarrollo de Software (INTI).
 
 ---
 
