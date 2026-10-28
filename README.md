@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hola, soy Iván 👋 | Full-Stack Developer & Data Analyst
 
-<!--
-**IvanJSantoMuze766/IvanJSantoMuze766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo problemas complejos en aplicaciones web eficientes y soluciones basadas en datos. Combino el desarrollo frontend/backend con habilidades analíticas avanzadas para convertir información dispersa en decisiones claras y rentables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 ¿Qué puedo hacer por vos?
+* **Desarrollo Web Full-Stack:** Creación de aplicaciones escalables, dinámicas y orientadas a la experiencia de usuario utilizando **React, TypeScript, Node.js y Python**.
+* **Análisis y Limpieza de Datos:** Procesamiento de grandes volúmenes de datos, consultas complejas en **SQL / BigQuery** y automatización de flujos de trabajo.
+* **Visualización de Negocio:** Diseño de dashboards interactivos y reportes ejecutivos en **Looker Studio** para la toma de decisiones estratégicas.
+
+---
+
+### 🛠️ Stack Tecnológico
+* **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
+* **Backend & Scripting:** Node.js, Python, APIs
+* **Datos & Bases de Datos:** SQL, BigQuery, Looker Studio, Excel / Google Sheets
+* **Entornos & Herramientas:** Git, GitHub, Linux
+
+---
+
+### 🏆 Credenciales Oficiales
+* **Google Data Analytics Professional Certificate** (Google / Coursera) — Validación internacional en ciclo completo de datos (desde la recolección y limpieza hasta la visualización).
+
+---
+
+### 💼 Colaboración y Proyectos Freelance
+Actualmente disponible para **proyectos freelance, consultoría en datos y desarrollos a medida**. 
+📫 ¿Tenés un proyecto en mente o querés sumar un perfil versátil a tu equipo? Hablemos: [Tu LinkedIn o Email de contacto]
